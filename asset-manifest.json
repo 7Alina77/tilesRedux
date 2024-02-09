@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tilesRedux/static/css/main.27f7f15c.css",
+    "main.js": "/tilesRedux/static/js/main.1e9845fa.js",
+    "static/js/787.950dc15f.chunk.js": "/tilesRedux/static/js/787.950dc15f.chunk.js",
+    "index.html": "/tilesRedux/index.html",
+    "main.27f7f15c.css.map": "/tilesRedux/static/css/main.27f7f15c.css.map",
+    "main.1e9845fa.js.map": "/tilesRedux/static/js/main.1e9845fa.js.map",
+    "787.950dc15f.chunk.js.map": "/tilesRedux/static/js/787.950dc15f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f7f15c.css",
+    "static/js/main.1e9845fa.js"
+  ]
+}
